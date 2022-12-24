@@ -1,1 +1,1 @@
-CDB is a minimal Database written in C implemented by following tutorial provided by [cstack](https://github.com/cstack) 
+CDB is a minimal Database written in C implemented by following the [tutorial](https://cstack.github.io/db_tutorial/) provided by [cstack](https://github.com/cstack) 
